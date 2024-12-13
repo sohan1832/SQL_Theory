@@ -1,0 +1,56 @@
+Latin ---- Dataum---Data
+Datumn -- totther uapadan
+
+Database = Data + Base
+
+Store korte gelei database kaj kortese .
+
+Advantage---
+   Fast
+   Find
+   Fastly Updatable.
+   Safest For Storing .
+
+Disadvantage--
+   Safest Security Lagbe .
+   Skillfull Person Needed .
+   
+
+Types Of Database -- 
+
+       1.Simple Database .
+      2.Relitional Database .
+
+
+Simple Database ---
+
+  1 ti file thakbe .
+  Multiple File thakle Tader Modde Kono Relation Thakbe na .
+
+Relational Database --
+	multiple File thakbe but eder modde relation thakbe .
+              
+               
+
+                *Table- > row+column
+              
+
+
+Database Element ---
+
+	1.Field = column
+	2.Record= row
+	3.Value (data)
+
+
+Key---
+
+	Priamry Key
+	Composite Primary Key
+	Foreign Key
+
+Primary Key --  J Field er maddome prottek record ke alada vabe khujte parbo take primary key bole .
+Composite key --- Multiple Field Diye Jokhon Kauke khujte hoy tokhn take Composite Key Bole .
+Foreign Key -- Ekti Table er Primary key onno table er simple key hisebe use hoy take Foreign Key Bole .
+
+   
